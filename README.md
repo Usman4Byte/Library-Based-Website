@@ -5,6 +5,7 @@
 **Setup**
 <pre>
 Open the given link to visit the website.
+  https://usman4byte.github.io/Library-Based-Website/
 OR
 Download its .rar from the same repository.
 Open the index.html file in your preferred web browser.
